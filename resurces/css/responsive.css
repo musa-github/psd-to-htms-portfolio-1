@@ -1,0 +1,49 @@
+@media only screen and (max-width:1024px){
+  .row{
+    margin:0 15px;
+  }
+  .main-nav{
+    display:none;
+  }
+  #testimonial-section{
+    text-align:center;
+  }
+  .clint-photo{
+    float:none;
+
+    margin-bottom:2rem;
+  }
+  .clint-revew{
+    text-align:center;
+    float:none;
+    
+  }
+  .clint-revew h3{
+   margin-top:2rem;
+  }
+  .main-nav{
+    position: relative;
+  }
+  .mobile-menu{
+    position: absolute;
+    top:7%;
+    right:5%;
+    cursor:pointer;
+  }
+  .mobile-menu span{
+    width:3rem;
+    height:.3rem;
+    background:#fff;
+    display:block;
+    
+  }
+
+}
+@media only screen and (max-width:980px){
+  .span_1_of_4{
+    width:49.2%;
+  }
+  .span_1_of_4:nth-child(3){
+    margin-left:0;
+  }
+}
