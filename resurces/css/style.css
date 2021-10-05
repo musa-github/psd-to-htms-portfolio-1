@@ -88,7 +88,7 @@ h3 {
   text-transform: uppercase;
 }
 h4 {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 400;
   text-transform: uppercase;
   margin: 1rem;
@@ -224,6 +224,7 @@ nav {
 }
 .box p {
   line-height: 2.5rem;
+  font-size: 18px;
 }
 #services-section {
   color: #fff;
@@ -512,7 +513,7 @@ svg.ui-ux circle {
   padding: 5.7rem 0;
   text-align: center;
 }
-#footer-section .footer-link {
+#footer-section ul {
   display: flex;
   justify-content: space-around;
 }
